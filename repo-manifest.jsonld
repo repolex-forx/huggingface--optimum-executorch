@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/optimum-executorch/commit/dc779b7fb1f2185d7c67f5f152e99b2ed8a0e315",
       "git:hexsha": "dc779b7fb1f2185d7c67f5f152e99b2ed8a0e315",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/optimum-executorch/commit/7ae7993e4048b33cbd911f64cfd7eb53dd4d66ea",

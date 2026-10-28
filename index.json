@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "optimum-executorch",
+  "versions": [
+    {
+      "commit": "dc779b7fb1f2185d7c67f5f152e99b2ed8a0e315",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:24:52.494368+00:00"
+    }
+  ]
+}
